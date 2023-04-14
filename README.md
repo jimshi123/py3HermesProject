@@ -13,3 +13,5 @@ Time limit: The game could have a time limit within which the player must comple
 Difficulty levels: The game could have different difficulty levels based on the number of pieces in the puzzle.
 Sound effects: The game could have sound effects for actions such as clicking, swapping pieces, completing the puzzle, etc.
 Customization: The game could allow the player to customize the puzzle image, background, sound effects, etc.
+
+Project presention and demo:https://drive.google.com/file/d/1qykjxY2oTKWXhrFgZu2J0UittNCwDY9t/view?usp=share_link
